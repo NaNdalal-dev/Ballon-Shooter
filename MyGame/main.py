@@ -15,7 +15,7 @@ pg.display.set_icon(icon)
 bgIMG = pg.image.load('bg2.jpg')
 
 #Background music
-mixer.music.load('[MP3DOWNLOAD.TO] Imagine Dragons - Bad Liar (Lyrics)-HQ.wav')
+mixer.music.load('background.wav')
 mixer.music.play(-1)
 
 #Player
